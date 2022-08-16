@@ -1,16 +1,13 @@
-# flutter_design
 
-A new Flutter project.
+# Diseño #1
 
-## Getting Started
+Buen día personita 😁, este es un proyecto pequeño que realicé enfocandome más al diseño 🖼️ que funcionalidad ⚙️, el primero de muchos que se harán con el tiempo.
 
-This project is a starting point for a Flutter application.
+Algunos fragmentos del código fue realizado desde cero, sé que existen muchos paquetes que proveen lo que hice, pero para entender o hacernos una idea sobre cómo funciona la rueda, hay que reinventarla 💪.
 
-A few resources to get you started if this is your first Flutter project:
+Creditos de inspiración a: https://dribbble.com/shots/18306241-Billy-Finance-mobile-app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![](https://cdn.dribbble.com/userupload/2766843/file/original-af660465daa7229327f67b7c5e734b67.png?compress=1&resize=1024x768)
+## Capturas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://drive.google.com/uc?export=view&id=1kqdgJ87e-bFX0_Zy8r590t5DMLcZWxEn)
